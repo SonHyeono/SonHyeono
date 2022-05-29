@@ -19,6 +19,10 @@ DB : ORACLE, MySQL
 
 ---
 
+- [기록 Blog](https://sonhyeono.github.io/)
+
+---
+
 ## 🚀 Project
 
 - [인식된 음성으로 감정과 보이스피싱 여부를 판단하는 AI 행원 (KB 국민은행 IT 아카데미 최우수 프로젝트 상 수상)](https://github.com/kbAcademyBclassSuperTeam)
