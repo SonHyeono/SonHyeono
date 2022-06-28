@@ -19,7 +19,7 @@ DB : ORACLE, MySQL
 
 ---
 
-- [기록 Blog](https://sonhyeono.github.io/)
+- # [Blog 주소](https://sonhyeono.github.io/)
 
 ---
 
